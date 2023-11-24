@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Python, Mastering JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tobyrams?tab=repositories](https://github.com/Tobyrams?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/Tobyrams?tab=repositories)
 
 - 📫 How to reach me **Tobyrams@gmail.com**
 
-- 📄 Know about my experiences [https://tobyrams.github.io/DigitalResume/](https://tobyrams.github.io/DigitalResume/)
+- 📄 Know about my experiences [DigitalResume](https://tobyrams.github.io/DigitalResume/)
 
 - ⚡ Fun fact **I love football⚽**
 
