@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Tobyrams@gmail.com**
 
-- 📄 Know about my experiences [DigitalResume](https://tebogos-resume.netlify.app)
+- 📄 Know about my experiences [DigitalResume](https://tobyrams.github.io/DigitalResume/)
 
 - ⚡ Fun fact **I love football⚽**
 
